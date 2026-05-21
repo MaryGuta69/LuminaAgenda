@@ -78,6 +78,7 @@ Abaixo está o diagrama do sistema com aplicação do padrão Decorator:
 - Criação de agendamentos
 - Listagem de agendamentos
 - Validação de regras de negócio
+- Implementação do padrão Decorator
 
 ---
 
