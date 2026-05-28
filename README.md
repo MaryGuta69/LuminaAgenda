@@ -30,6 +30,8 @@ O sistema está organizado em camadas:
 
 - model → entidades do sistema
 - dao → acesso aos dados
+- controller
+- connection
 - service → regras de negócio
 
 ---
